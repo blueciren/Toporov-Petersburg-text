@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Training corpora (lemmatized XML) — title list & source links tracked separately, see DATA_INDEX.md
+/general/
+/topic/
+
+# Corpus / sample text files — see DATA_INDEX.md for titles
+/idiot.txt
+/poem1.txt
+/portret.txt
+/rim.txt
+/test_data/
+
+# Old version
+/text_topic_classifier_old.py
