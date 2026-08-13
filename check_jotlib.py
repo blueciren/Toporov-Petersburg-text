@@ -27,4 +27,4 @@ if hasattr(model, "coef_"):
 if hasattr(model, "intercept_"):
     print("절편:", model.intercept_)
 if hasattr(model, "feature_names_in_"):
-    print("사용된 피처 수:", len(model.feature_names_in_))
+    print("사용된 피처 수:", len(model.feature_names_in_))1
